@@ -1,10 +1,8 @@
-site_url: https://медальпобеда.рф   # или Punycode: https://xn--80adafph4a9c.xn--p1ai
+site_url: https://superjumpit.netlify.app  # временно, потом замените на свой домен
 backend:
   name: github
   repo: mharitonov429-art/mharitonov429-art.github.io
   branch: main
-  base_url: https://cms-proxy.decapi.org   # публичный прокси
-  # auth_endpoint: /auth   # не требуется, прокси использует свой endpoint
 
 media_folder: "images"
 public_folder: "/images"
