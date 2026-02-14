@@ -3,8 +3,7 @@ backend:
   name: github
   repo: mharitonov429-art/mharitonov429-art.github.io
   branch: main
-  base_url: https://cms-proxy.decapi.org
-
+  
 media_folder: "images"
 public_folder: "/images"
 
