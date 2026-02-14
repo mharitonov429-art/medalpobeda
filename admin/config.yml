@@ -7,12 +7,12 @@ media_folder: "images"
 public_folder: "/images"
 
 collections:
-  - name: "posts"
-    label: "Статьи"
-    folder: "_posts"
+  - name: "pages"
+    label: "Страницы"
+    folder: "/"
+    extension: "html"
+    format: "frontmatter"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Заголовок", name: "title", widget: "string"}
-      - {label: "Дата", name: "date", widget: "datetime"}
-      - {label: "Текст", name: "body", widget: "markdown"}
+      - {label: "Контент", name: "body", widget: "markdown"}
