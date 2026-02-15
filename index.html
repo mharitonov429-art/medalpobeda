@@ -3,24 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Интеллект-клуб Харитоновых</title>
+    <title>Интеллект-клуб Харитоновых | Super Jump</title>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; text-align: center; background: #f4f4f4; }
-        .card { background: white; padding: 40px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
-        h1 { color: #2c3e50; }
-        .btn { display: inline-block; background: #27ae60; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 20px; }
-        .admin-link { margin-top: 50px; font-size: 0.8em; color: #95a5a6; }
+        :root { --primary: #1a73e8; --secondary: #34a853; --dark: #202124; }
+        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background: #f8f9fa; color: var(--dark); line-height: 1.6; }
+        header { background: white; padding: 60px 20px; text-align: center; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+        .logo { width: 100px; height: 100px; background: var(--primary); border-radius: 50%; margin: 0 auto 20px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 40px; }
+        h1 { margin: 0; color: var(--primary); font-size: 2.5em; }
+        .subtitle { font-size: 1.2em; color: #5f6368; margin-top: 10px; }
+        .container { max-width: 600px; margin: 40px auto; padding: 0 20px; }
+        .link-card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; display: block; text-decoration: none; color: var(--dark); border: 1px solid #dadce0; transition: 0.3s; text-align: center; font-weight: bold; }
+        .link-card:hover { border-color: var(--primary); box-shadow: 0 4px 12px rgba(0,0,0,0.1); transform: translateY(-2px); }
+        .about-section { background: #e8f0fe; padding: 30px; border-radius: 12px; margin-top: 40px; }
+        footer { text-align: center; padding: 40px; color: #70757a; font-size: 0.9em; }
+        .btn-main { background: var(--secondary); color: white; border: none; }
     </style>
 </head>
 <body>
-    <div class="card">
-        <h1>Интеллект-клуб Харитоновых</h1>
-        <p>Добро пожаловать! Мы занимаемся развитием интеллекта и энергии по методике Super Jump.</p>
-        <p>Сайт находится в стадии наполнения.</p>
-        <a href="https://t.me/ваш_логин" class="btn">Связаться в Telegram</a>
+
+<header>
+    <div class="logo">SJ</div>
+    <h1>Интеллект-клуб Харитоновых</h1>
+    <p class="subtitle">Развитие интеллекта и энергии по методике Super Jump</p>
+</header>
+
+<div class="container">
+    <a href="https://t.me/ВАШ_ЛОГИН" class="link-card btn-main">🚀 Записаться на тренировку (Telegram)</a>
+    <a href="#" class="link-card">📖 Что такое Super Jump?</a>
+    <a href="#" class="link-card">💎 Стать интеллект-тренером</a>
+    <a href="#" class="link-card">📞 Заказать обратный звонок</a>
+
+    <div class="about-section">
+        <h3>О методике</h3>
+        <p>8 упражнений, которые изменят вашу жизнь. Повышаем уровень счастья, уверенности и энергии за 10 дней по 1 часу в день.</p>
     </div>
-    <div class="admin-link">
-        <a href="/admin/">Вход в управление</a>
-    </div>
+</div>
+
+<footer>
+    &copy; 2024 Интеллект-клуб Харитоновых. <br> Официальный сайт интеллект-тренеров Super Jump.
+</footer>
+
 </body>
 </html>
