@@ -3,37 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Новости Super Jump | Всемирная Ассоциация Супер Джамп </title>
+    <title>Новости Super Jump | Интеллект-клуб Матвея и Татьяны Харитоновых</title>
     <style>
-        body { font-family: 'Helvetica', sans-serif; margin: 0; background: #f0f2f5; }
-        header { background: #1a73e8; color: white; padding: 20px; text-align: center; position: sticky; top: 0; z-index: 100; }
-        .container { max-width: 800px; margin: 20px auto; padding: 10px; }
-        .news-card { background: white; border-radius: 12px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        .news-card h2 { margin-top: 0; color: #1a73e8; }
-        .date { color: #888; font-size: 0.9em; margin-bottom: 10px; }
-        .tag { background: #34a853; color: white; padding: 3px 8px; border-radius: 5px; font-size: 0.8em; text-transform: uppercase; }
-        .add-news-btn { background: #ff9800; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; display: block; text-align: center; margin-bottom: 30px; }
+        :root { --sj-blue: #1a73e8; --sj-green: #34a853; --sj-orange: #f9ab00; }
+        body { font-family: 'Segoe UI', Roboto, sans-serif; margin: 0; background: #f4f7f6; color: #3c4043; line-height: 1.6; }
+        header { background: white; padding: 40px 20px; text-align: center; border-bottom: 3px solid var(--sj-blue); }
+        .container { max-width: 850px; margin: 0 auto; padding: 20px; }
+        
+        /* Стиль закрепленной новости */
+        .featured-post { background: linear-gradient(135deg, #ffffff 0%, #e8f0fe 100%); border-left: 5px solid var(--sj-orange); border-radius: 15px; padding: 30px; margin-bottom: 40px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); }
+        .featured-badge { background: var(--sj-orange); color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold; text-transform: uppercase; }
+        
+        .news-card { background: white; border-radius: 12px; padding: 25px; margin-bottom: 25px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); transition: 0.3s; }
+        .news-card:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        
+        h1 { color: var(--sj-blue); margin-bottom: 5px; }
+        h2 { color: var(--sj-blue); margin-top: 10px; }
+        .date { color: #70757a; font-size: 0.9em; margin-bottom: 15px; }
+        
+        .btn { display: inline-block; padding: 12px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; margin-top: 15px; transition: 0.3s; }
+        .btn-tg { background: #229ED9; color: white; }
+        .btn-more { border: 2px solid var(--sj-blue); color: var(--sj-blue); margin-left: 10px; }
+        .btn:hover { opacity: 0.9; transform: scale(1.02); }
+        
+        footer { text-align: center; padding: 50px; color: #70757a; font-size: 0.9em; }
     </style>
 </head>
 <body>
 
 <header>
-    <h1>Super Jump News</h1>
-    <p>Всемирная Ассоциация Интеллект-Тренеров Супер Джамп/Super Jump</p>
+    <h1>Super Jump: Энергия и Интеллект</h1>
+    <p>Официальный канал новостей Интеллект-клуба Харитоновых</p>
 </header>
 
 <div class="container">
-    <a href="https://github.com/mharitonov429-art/mharitonov429-art.github.io/new/main/_posts" class="add-news-btn">+ Опубликовать новость</a>
+    <article class="featured-post">
+        <span class="featured-badge">Важное • Главное</span>
+        <h2>Путь к мастерству жизни: Интеллект-клуб онлайн Super Jump</h2>
+        <p>Я, Матвей Харитонов, приветствую вас! Имея за плечами 21 год в бизнесе и опыт в педагогике, я нашел в методике <strong>Super Jump</strong> ту самую «инструкцию к жизни», которой не хватает многим. Это не просто тренировки — это система психологической асептики и ментального здоровья.</p>
+        <p>Наш клуб — это сообщество, где мы вместе побеждаем выгорание, снижаем уровень кортизола и строим новую, осознанную жизнь. Помните: инвестиция в собственный интеллект — единственная, которая никогда не обесценится.</p>
+        
+        <div style="margin-top: 20px;">
+            <a href="https://t.me/Ladaria7529" class="btn btn-tg">Написать мне (СМЕХ)</a>
+            <a href="https://cp.puzzlebot.top/LbldJjCbn7WEBU" class="btn btn-more">Подробнее о методике (БОТ)</a>
+             <a href="https://account.superjump.com/register/81982" class="btn btn-more">Купить клубный статус в Каталог продуктов</a>
+            <a href="https://account.superjump.com/register/81982" class="btn btn-more">Купить медитацию в Каталог продуктов</a>
+        </div>
+    </article>
+
+    <hr style="border: 0; height: 1px; background: #ddd; margin: 40px 0;">
 
     <div id="news-feed">
         <div class="news-card">
-            <span class="tag">Важное</span>
             <div class="date">15 февраля 2026</div>
-            <h2>Добро пожаловать в ленту новостей !</h2>
-            <p>Методика Super Jump объединяет тысячи людей. Теперь все новости ассоциации будут здесь.</p>
+            <h2>Первое обновление ленты</h2>
+            <p>Сегодня мы официально запустили новостной портал ассоциации. Здесь ежедневно будут публиковаться отчеты, научные инсайты и новости нашей международной команды.</p>
         </div>
     </div>
 </div>
 
+<footer>
+    &copy; 2026 Интеллект-клуб Харитоновых. Разработано для Всемирной Ассоциации Super Jump.
+</footer>
+
+</body>
+</html>
 </body>
 </html>
