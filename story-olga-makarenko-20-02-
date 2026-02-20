@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ольга Макаренко: Педагогика Счастья | Super Jump</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900 leading-relaxed">
+
+    <div class="max-w-4xl mx-auto py-12 px-6">
+        <a href="index.html" class="inline-block mb-8 text-sm font-black uppercase tracking-widest text-blue-600 hover:text-orange-500 transition-colors">
+            ← Назад в ленту
+        </a>
+
+        <article class="bg-white p-8 md:p-16 rounded-3xl shadow-2xl shadow-blue-900/5 border border-slate-100">
+            
+            <header class="mb-12">
+                <div class="flex items-center gap-4 mb-6 text-slate-500 font-bold uppercase text-xs tracking-widest">
+                    <span>20 февраля 2026</span>
+                    <span class="w-1 h-1 bg-slate-300 rounded-full"></span>
+                    <span>Ольга Макаренко — Коуч, Педагог, Интеллект-тренер</span>
+                </div>
+                <h1 class="text-4xl md:text-6xl font-black leading-none tracking-tighter mb-8">
+                    ЭФФЕКТ СВЕТЛЯЧКА: <br><span class="text-blue-600">ОТ СЕМЬИ ДО ВСЕГО МИРА</span>
+                </h1>
+            </header>
+
+            <div class="prose prose-slate prose-lg max-w-none text-slate-700">
+                <p class="font-bold text-xl text-slate-900 mb-8">
+                    Благодарю, Вера! Удача и дружба с нами всегда, богатство и счастье — это наша судьба. Я Ольга Макаренко, и со мной мой супруг Руслан Новиков. Вчера я выступала за своего партнера, а сегодня — уже за себя. К сцене привыкнуть нельзя, но привыкайте — это хорошая привычка!
+                </p>
+
+                <p>
+                    Более 30 лет я в педагогике. Начинала как школьный учитель, прошла путь через школу и армию. Сейчас я коуч и игропрактик. В Суперджамп меня никто не звал — я увидела приглашение ВКонтакте у совершенно чужой девочки. Сказала себе: «А почему нет?» — и вот я здесь уже четвертый год. Это была Лена Козлова, она стала тем самым проводником, который «передал солонку», как говорит Владимир Довгань.
+                </p>
+
+                <p>
+                    Для меня очень дороги семейные ценности — мы с мужем вместе 31 год. У нас три взрослых сына и уже четверо внуков. Самое ценное, что мои внуки — тоже интеллект-тренеры! Недавно 9-летний внук рассказал: «Бабушка, у меня была неприятность, мальчик приставал. Но я сказал учительнице: я интеллект-тренер, я умею владеть своими эмоциями, поэтому я не подрался, а говорил с ним спокойно». 
+                </p>
+
+                <blockquote class="my-12 p-8 bg-blue-50 border-l-8 border-blue-600 rounded-r-3xl italic">
+                    <p class="text-2xl font-medium text-slate-800 mb-4">
+                        «Семья — это то место, где начинается жизнь и никогда не заканчивается любовь.»
+                    </p>
+                    <cite class="text-sm font-bold uppercase tracking-widest text-blue-600">— Альфред Адлер</cite>
+                </blockquote>
+
+                <p>
+                    Детей учить не надо, они подражают нам. Когда мы владеем эмоциями, мы зажигаем сердца семей. А от семей заряжается весь мир. В Суперджамп нет границ: ни временных, ни масштабных, ни профессиональных. Мы светлячки, которые зажигаются по всей планете.
+                </p>
+
+                <p>
+                    Особенно сейчас важно заходить помогающим специалистам — педагогам, психологам. По статистике они все выгоревшие, потому что они в одиночку. А в одиночку сейчас не справишься. Только объединяясь с единомышленниками, мы можем спасти этот мир своими положительными эмоциями.
+                </p>
+
+                <p>
+                    Благодарю нашу дружную команду Надежды и Олега Раздобуткиных, Веру Макаренко, Роберта Ра, Петра Силкина и, конечно, Владимира Довганя. Спасибо за систему школ для новичков — она сейчас жизненно необходима всем тренерам. Мы едины!
+                </p>
+            </div>
+
+            <div class="mt-16 p-8 md:p-12 bg-slate-900 rounded-[2rem] text-center text-white shadow-xl shadow-blue-900/20">
+                <h2 class="text-3xl font-black mb-4 uppercase tracking-tighter italic">Станьте частью мировой команды светлячков</h2>
+                <p class="text-slate-400 mb-8 max-w-md mx-auto">Начните владеть своими эмоциями и зажигать сердца других людей вместе с нами.</p>
+                <a href="https://account.superjump.com/register/81982" class="inline-block bg-blue-600 hover:bg-orange-500 text-white font-black py-5 px-10 rounded-2xl transition-all transform hover:scale-105 active:scale-95 text-xl tracking-widest uppercase">
+                    Изменить жизнь
+                </a>
+                <p class="mt-6 text-sm text-slate-500 font-medium italic">
+                    Инструкция: В каталоге продуктов выберите: «Купить клубный статус».
+                </p>
+            </div>
+
+        </article>
+    </div>
+
+</body>
+</html>
