@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /README.md
+Disallow: /CNAME
+
+Sitemap: https://медальпобеда.рф/sitemap.xml
