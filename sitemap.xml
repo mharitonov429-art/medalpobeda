@@ -398,6 +398,36 @@
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>https://samara-best.ru/story-albina-yakubova-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://samara-best.ru/story-viktor-odintsov-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+  <loc>https://samara-best.ru/story-almir-mingazov-13-03-26.html</loc>
+  <lastmod>2026-03-13</lastmod>
+</url>
+<url>
+  <loc>https://samara-best.ru/story-lidiya-sheina-13-03-26.html</loc>
+  <lastmod>2026-03-13</lastmod>
+</url>
+<url>
+  <loc>https://samara-best.ru/story-marina-maynaeva-13-03-26.html</loc>
+  <lastmod>2026-03-13</lastmod>
+</url>
+  <url>
+    <loc>https://samara-best.ru/story-natali-new-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
   
   
 </urlset>
