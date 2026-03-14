@@ -371,6 +371,34 @@
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>https://samara-best.ru/story-galina-12-03-26.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://samara-best.ru/story-altyn-tuya-12-03-26.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://samara-best.ru/story-event-12-03-26.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://samara-best.ru/index.html</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
   
 </urlset>
 
