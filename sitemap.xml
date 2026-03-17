@@ -1,5 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://медальпобеда.рф/story-rasul-16-03-26.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-vladimir-16-03-26.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-vladimir-put-16-03-26.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-vladimir-test-16-03-26.html</loc>
+    <lastmod>2026-03-16</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://медальпобеда.рф/story-elena-15-03-26.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-gulnazia-15-03-26.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-tolkunay-15-03-26.html</loc>
+    <lastmod>2026-03-15</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://медальпобеда.рф/story-galina-dumnova-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-alexey-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-alya-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-ekaterina-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-evgeniya-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-galina-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-lydia-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-tamara-14-03-26.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://медальпобеда.рф/story-albina-yakubova-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-almir-mingazov-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-lidiya-sheina-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-marina-maynaeva-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-natali-new-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://медальпобеда.рф/story-viktor-odintsov-13-03-26.html</loc>
+    <lastmod>2026-03-13</lastmod>
+    <priority>0.75</priority>
+  </url>
+  
+  
+  
   <url>
     <loc>https://медальпобеда.рф/</loc>
     <lastmod>2026-02-24</lastmod>
@@ -398,158 +510,8 @@
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-albina-yakubova-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-viktor-odintsov-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
-  <url>
-  <loc>https://медальпобеда.рф/story-almir-mingazov-13-03-26.html</loc>
-  <lastmod>2026-03-13</lastmod>
-</url>
-<url>
-  <loc>https://медальпобеда.рф/story-lidiya-sheina-13-03-26.html</loc>
-  <lastmod>2026-03-13</lastmod>
-</url>
-<url>
-  <loc>https://медальпобеда.рф/story-marina-maynaeva-13-03-26.html</loc>
-  <lastmod>2026-03-13</lastmod>
-</url>
-  <url>
-    <loc>https://медальпобеда.рф/story-natali-new-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
-  </url>
 
-  <url>
-    <loc>https://медальпобеда.рф/index.html</loc>
-    <lastmod>2026-03-17</lastmod>
-    <priority>1.00</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/privacy.html</loc>
-    <lastmod>2026-02-17</lastmod>
-    <priority>0.50</priority>
-  </url>
 
-  <url>
-    <loc>https://медальпобеда.рф/story-svetlana-16-03-26.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-margarita-16-03-26.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-nina-16-03-26.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-yulia-16-03-26.html</loc>
-    <lastmod>2026-03-16</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://медальпобеда.рф/story-elena-15-03-26.html</loc>
-    <lastmod>2026-03-15</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-gulnazia-15-03-26.html</loc>
-    <lastmod>2026-03-15</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-tolkunay-15-03-26.html</loc>
-    <lastmod>2026-03-15</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://медальпобеда.рф/story-evgeniya-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-lydia-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-alya-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-alexey-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-tamara-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-ekaterina-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-galina-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-galina-dumnova-14-03-26.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.80</priority>
-  </url>
-
-  <url>
-    <loc>https://медальпобеда.рф/story-albina-yakubova-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-viktor-odintsov-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-almir-mingazov-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-lidiya-sheina-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-marina-maynaeva-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://медальпобеда.рф/story-natali-new-13-03-26.html</loc>
-    <lastmod>2026-03-13</lastmod>
-    <priority>0.70</priority>
-  </url>
-</urlset>
-  
 </urlset>
 
 
