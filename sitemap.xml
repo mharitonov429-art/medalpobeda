@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-
+  <url>
+  <loc>https://samara-best.ru/story-aleksandra-boltak-14-04-26.html</loc>
+  <lastmod>2026-04-14</lastmod>
+</url>
+<url>
+  <loc>https://samara-best.ru/story-ayun-chime-14-04-26.html</loc>
+  <lastmod>2026-04-14</lastmod>
+</url>
+<url>
+  <loc>https://samara-best.ru/story-tsintsov-dirdam-14-04-26.html</loc>
+  <lastmod>2026-04-14</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+  
+<url>
+  <loc>https://samara-best.ru/story-kseniya-vagner-14-04-26.html</loc>
+  <lastmod>2026-04-14</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+  <url>
+  <loc>https://samara-best.ru/story-ayun-taya-13-04-26.html</loc>
+  <lastmod>2026-04-13</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+  <url>
+  <loc>https://samara-best.ru/story-lidiya-mueller-13-04-26.html</loc>
+  <lastmod>2026-04-13</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://samara-best.ru/story-shladgauer-yamal-13-04-26.html</loc>
+  <lastmod>2026-04-13</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
   <url>
   <loc>https://samara-best.ru/story-natalya-lubnina-12-04-26.html</loc>
   <lastmod>2026-04-12</lastmod>
