@@ -7,28 +7,21 @@
     <!-- URL-адрес площадки -->
     <url>https://медальпобеда.рф</url>
     <!-- ЗАМЕНИТЕ на реальный адрес почты для вопросов по курсам -->
-    <email>info@медальпобеда.рф</email>
+    <email>zames.78@mail.ru</email>
     <!-- ЗАМЕНИТЕ на реальную ссылку на логотип: PNG или SVG, минимум 100x100px, квадрат -->
-    <picture>https://медальпобеда.рф/assets/logo-superjump-square.png</picture>
+    <picture>https://медальпобеда.рф/logo-superjump-square.png</picture>
     <description>Интеллект-клуб Харитоновых Super Jump — программа развития личной энергии, лидерских качеств и эмоциональной устойчивости на основе методики из 8 упражнений.</description>
     <currencies>
       <currency id="RUR" rate="1" />
     </currencies>
 
-    <!-- Наборы курсов (необязательно). Можно удалить, если пока один продукт -->
-    <sets>
-      <set id="s1">
-        <name>Методика Super Jump</name>
-        <url>https://медальпобеда.рф/kursy</url>
-      </set>
-    </sets>
-
+    
     <offers>
       <offer id="superjump-club-status">
         <!-- Название предложения, должно быть уникальным -->
         <name>Super Jump: клубный статус — 10-дневная программа управления энергией</name>
         <!-- ЗАМЕНИТЕ на реальный URL страницы с описанием и покупкой курса на вашем сайте -->
-        <url>https://медальпобеда.рф/kurs-super-jump.html</url>
+        <url>https://account.superjump.com/landing/1u2rvfEVW8OE6xX7SNPemDJJA9ZJOAvryOdCf2o8q1ZGKDqgeYNixf22fHFzWTlyi8EML629nzMqYYVAN9nySCz7</url>
 
         <!-- Категория из официального рубрикатора: 802 = Саморазвитие → Психология -->
         <categoryId>802</categoryId>
@@ -41,7 +34,7 @@
         <price>15000</price>
         <currencyId>RUR</currencyId>
         <!-- Пример скидки, при отсутствии — удалите эти два параметра -->
-        <param name="Цена по скидке">12000</param>
+        <param name="Цена по скидке">20000</param>
         <param name="Дата окончания скидки">2026-10-31</param>
 
         <!-- ЗАМЕНИТЕ на дату старта ближайшего потока/группы -->
@@ -78,7 +71,7 @@
         <param name="Часы в неделю">7</param>
 
         <!-- ЗАМЕНИТЕ на ссылку на логотип/обложку курса -->
-        <picture>https://медальпобеда.рф/assets/superjump-course-cover.jpg</picture>
+        <picture>https://медальпобеда.рф/superjump-course-cover.jpg</picture>
         <description>10-дневная программа Super Jump — 8 практических упражнений для управления личной энергией, снятия эмоционального выгорания и развития лидерских качеств. Занятия в группе с наставником, разбор личных целей и поддержка сообщества.</description>
       </offer>
     </offers>
