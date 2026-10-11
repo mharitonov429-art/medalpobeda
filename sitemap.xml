@@ -1629,61 +1629,6 @@
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
   <url>
-<loc>https://медальпобеда.рф/story-gosmile-app-launch-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.90</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-marathon-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.85</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-1-5-million-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.85</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-culture-code-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.80</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-tracker-book-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.80</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-ratings-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.80</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-good-morning-show-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.85</priority>
-</url>
-
-<url>
-<loc>https://медальпобеда.рф/story-gosmile-2027-product-02-10-26.html</loc>
-<lastmod>2026-10-02</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.80</priority>
-</url>
-  
 <url>
   <loc>https://медальпобеда.рф/story-akademiya-liderov-10-10-26.html</loc>
   <lastmod>2026-10-10</lastmod>
@@ -1711,6 +1656,54 @@
 <url>
   <loc>https://медальпобеда.рф/story-gosmile-rating-novichkov-10-10-26.html</loc>
   <lastmod>2026-10-10</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-marathon-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-1-5-million-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-app-launch-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-culture-code-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-tracker-book-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-ratings-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-good-morning-show-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://медальпобеда.рф/story-gosmile-2027-product-02-10-26.html</loc>
+  <lastmod>2026-10-02</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.80</priority>
 </url>
