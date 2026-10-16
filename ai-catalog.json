@@ -1,0 +1,30 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Super Jump — Интеллект-клуб Харитоновых",
+    "identifier": "xn--80aackccd0cfyk9m.xn--p1ai"
+  },
+  "entries": [
+    {
+      "identifier": "urn:ai:xn--80aackccd0cfyk9m.xn--p1ai:knowledge:llms-txt",
+      "displayName": "Индекс сайта для нейросетей (llms.txt)",
+      "type": "text/plain",
+      "url": "https://медальпобеда.рф/llms.txt",
+      "description": "Краткое описание сайта и список ключевых страниц: эфиры Академии Величайших лидеров, обращения Владимира Довганя, материалы о приложении GO SMILE."
+    },
+    {
+      "identifier": "urn:ai:xn--80aackccd0cfyk9m.xn--p1ai:knowledge:sitemap",
+      "displayName": "Карта сайта (sitemap.xml)",
+      "type": "application/xml",
+      "url": "https://медальпобеда.рф/sitemap.xml",
+      "description": "Полный список страниц сайта с датами обновления. Все страницы статические, на русском языке."
+    },
+    {
+      "identifier": "urn:ai:xn--80aackccd0cfyk9m.xn--p1ai:knowledge:stories-index",
+      "displayName": "Лента историй и выступлений",
+      "type": "text/html",
+      "url": "https://медальпобеда.рф/index.html",
+      "description": "Главная страница: карточки всех историй и выступлений интеллект-тренеров и амбассадоров Super Jump, новые сверху."
+    }
+  ]
+}
