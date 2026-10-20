@@ -1,35 +1,58 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-           <meta name="google-site-verification" content="CTg1sBdRa2-g0V768xZTHnifGsgXSnAiyBjJ5gL-eQo" />
-           <meta name="yandex-verification" content="417c4619cea372e7" />
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript">
-    (function(m,e,t,r,i,k,a){
-        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-        m[i].l=1*new Date();
-        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
-    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=112653578', 'ym');
-
-    ym(112653578, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/112653578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-
+    <meta name="google-site-verification" content="CTg1sBdRa2-g0V768xZTHnifGsgXSnAiyBjJ5gL-eQo" />
+    <meta name="yandex-verification" content="417c4619cea372e7" />
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Новости Super Jump | Интеллект-клуб Харитоновых</title>
     <meta name="description" content="Официальный портал интеллект-клуба Матвея и Татьяны Харитоновых: истории успеха, практики и упражнения Super Jump, новости клуба и события.">
     <link rel="canonical" href="https://медальпобеда.рф/">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Предзагрузка критических шрифтов -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.gstatic.com/s/inter/v13/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hig.woff2" as="font" type="font/woff2" crossorigin>
+    
+    <!-- Критический CSS (встроенный) -->
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; }
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+        body { 
+            font-family: 'Inter', sans-serif; 
+            margin: 0;
+            padding: 0;
+        }
     </style>
+    
+    <!-- Tailwind CSS (асинхронная загрузка) -->
+    <link rel="preload" href="https://cdn.tailwindcss.com" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.tailwindcss.com"></noscript>
+    
+    <!-- Font Awesome (асинхронная загрузка) -->
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"></noscript>
+
+    <!-- Яндекс.Метрика (отложенная загрузка) -->
+    <script>
+        window.addEventListener('load', function() {
+            setTimeout(function(){
+                (function(m,e,t,r,i,k,a){
+                    m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+                    m[i].l=1*new Date();
+                    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+                    k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+                })(window, document, 'script', 'https://mc.yandex.ru/metrika/tag.js?id=112653578', 'ym');
+                ym(112653578, 'init', {
+                    clickmap: true,
+                    trackLinks: true,
+                    accurateTrackBounce: true,
+                    webvisor: true
+                });
+            }, 1500);
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/112653578" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 </head>
 <body class="bg-slate-50 text-slate-900">
 
