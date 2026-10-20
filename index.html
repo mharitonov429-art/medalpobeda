@@ -4096,6 +4096,58 @@
             </div>
         </div>
     </footer>
+    <script>
+        // Ленивая загрузка карточек
+        document.addEventListener('DOMContentLoaded', function() {
+            const lazyCards = document.querySelectorAll('.lazy-card');
+            const loadMoreBtn = document.getElementById('loadMore');
+            const loadedCountEl = document.getElementById('loadedCount');
+            const totalCountEl = document.getElementById('totalCount');
+            
+            let currentIndex = 0;
+            const cardsPerLoad = 12;
+            const totalCards = lazyCards.length + 12; // 12 видимых + скрытые
+            
+            // Обновляем счётчик
+            totalCountEl.textContent = totalCards;
+            
+            // Показываем следующие 12 карточек
+            function loadMoreCards() {
+                const end = Math.min(currentIndex + cardsPerLoad, lazyCards.length);
+                
+                for (let i = currentIndex; i < end; i++) {
+                    lazyCards[i].classList.remove('hidden');
+                }
+                
+                currentIndex = end;
+                loadedCountEl.textContent = 12 + currentIndex;
+                
+                // Скрываем кнопку, если все карточки показаны
+                if (currentIndex >= lazyCards.length) {
+                    loadMoreBtn.style.display = 'none';
+                }
+            }
+            
+            // Обработчик клика на кнопку
+            loadMoreBtn.addEventListener('click', loadMoreCards);
+            
+            // Автоматическая подгрузка при скролле (опционально)
+            let isLoading = false;
+            window.addEventListener('scroll', function() {
+                if (isLoading) return;
+                
+                const scrollPosition = window.innerHeight + window.scrollY;
+                const threshold = document.body.offsetHeight - 1000; // за 1000px до конца
+                
+                if (scrollPosition >= threshold && currentIndex < lazyCards.length) {
+                    isLoading = true;
+                    loadMoreCards();
+                    setTimeout(() => { isLoading = false; }, 500);
+                }
+            });
+        });
+    </script>
 
+    
 </body>
 </html>
